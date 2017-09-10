@@ -12,3 +12,6 @@ Those who fall will be forgotten, but those who manage the impossible will have 
 Good luck Hero!
 
 Game: https://bears-team-3.github.io
+
+
+Game worked on by @freddydumont and @cclar. Leaderboard being worked on by @mmarinm.
